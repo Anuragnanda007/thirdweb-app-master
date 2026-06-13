@@ -67,8 +67,5 @@ and copy and paste this api key to the env file in STABLE_API
 
 ## Author Info
 
-#### Aditya Gupta
+#### ANURAG NANDA
 
-- Email - [aditya.cse21@iitg.ac.in](mailto:aditya.cse21@iitg.ac.in)
-- Github - [guptaaditya30121](https://github.com/guptaaditya30121)
-<!---->
